@@ -1,0 +1,8 @@
+
+{
+  "name": "Paperid",
+  "description": "A refined D2C clothing brand featuring minimal silhouettes and premium comfort for the modern generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
